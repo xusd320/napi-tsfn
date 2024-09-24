@@ -1,0 +1,18 @@
+{
+  "name": "napi-tsfn-linux-arm-musleabihf",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "napi-tsfn.linux-arm-musleabihf.node",
+  "files": [
+    "napi-tsfn.linux-arm-musleabihf.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

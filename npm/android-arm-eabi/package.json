@@ -1,0 +1,18 @@
+{
+  "name": "napi-tsfn-android-arm-eabi",
+  "version": "0.0.0",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "napi-tsfn.android-arm-eabi.node",
+  "files": [
+    "napi-tsfn.android-arm-eabi.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
